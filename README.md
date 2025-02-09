@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @rigiz
+- 👋 Hi, I’m @rizky
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning information system
 - 💞️ I’m looking to collaborate on your project
